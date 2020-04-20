@@ -1,4 +1,4 @@
-package eduardo.com
+package com.test.iamrich
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
