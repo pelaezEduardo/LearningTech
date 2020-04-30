@@ -176,3 +176,4 @@ C:\GitHub\LearningTech\MVC_Guide\MVC_Guide\obj\Debug\MVC_Guide.csprojAssemblyRef
 C:\GitHub\LearningTech\MVC_Guide\MVC_Guide\obj\Debug\MVC_Guide.csproj.CopyComplete
 C:\GitHub\LearningTech\MVC_Guide\MVC_Guide\obj\Debug\MVC_Guide.dll
 C:\GitHub\LearningTech\MVC_Guide\MVC_Guide\obj\Debug\MVC_Guide.pdb
+C:\GitHub\LearningTech\MVC_Guide\MVC_Guide\obj\Debug\MVC_Guide.csproj.CoreCompileInputs.cache
