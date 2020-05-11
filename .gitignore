@@ -4,3 +4,9 @@
 
 /ASPNETCORE/.vs/ASPNETCORE/v16
 /HelloWorldApp/target/
+/MyLib/nbproject/private/
+/MyApp/nbproject/private/
+/MyLib/build/
+/MyApp/build/
+/MyLib/dist/
+/MyApp/dist/
