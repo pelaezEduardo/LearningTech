@@ -11,6 +11,7 @@ package org.me.mylib;
  */
 public class LibClass {
 
+    /**Forma un acrostico con el array de palabras*/
     public static String acrostic(String[] args) {
         StringBuffer b = new StringBuffer();
         for (int i = 0; i < args.length; i++) {
