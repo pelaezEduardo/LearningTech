@@ -1,0 +1,3 @@
+C:\GitHub\LearningTech\TestReact\TestReact\obj\Debug\TestReact.njsprojAssemblyReference.cache
+C:\GitHub\LearningTech\TestReact\TestReact\obj\Debug\TestReact.njsproj.CoreCompileInputs.cache
+C:\GitHub\LearningTech\TestReact\TestReact\bin\Microsoft.NodejsTools.WebRole.dll
