@@ -54,7 +54,7 @@ namespace testAngular
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddJwtBearer(options =>
                 {
-                    var firebaseProjectName = Configuration["plus"];
+                    var firebaseProjectName = Configuration["FirebaseProjectName"];
                     options.Authority = "https://securetoken.google.com/" + firebaseProjectName;
                     options.TokenValidationParameters = new TokenValidationParameters
                     {
